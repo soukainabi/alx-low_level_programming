@@ -3,8 +3,8 @@
  * main - Entry point
  * Description: 'print _purchar to stdout'
  * Return: always 0
-*/
-sh: 1: :wq: not found
+ */
+int maidn (void)
 {
 	_putchar('_');
 	_putchar('p');
