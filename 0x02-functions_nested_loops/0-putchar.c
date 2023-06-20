@@ -1,10 +1,9 @@
 #include "main.h"
 /**
  * main - Entry point
- * Description: 'print _purchar to stdout'
  * Return: always 0
  */
-int maidn (void)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
