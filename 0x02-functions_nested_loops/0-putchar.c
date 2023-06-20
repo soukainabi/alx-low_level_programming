@@ -2,8 +2,9 @@
 /**
  * main - Entry point
  * Description: 'print _purchar to stdout'
+ * Return: always 0
 */
-int main(void)
+sh: 1: :wq: not found
 {
 	_putchar('_');
 	_putchar('p');
